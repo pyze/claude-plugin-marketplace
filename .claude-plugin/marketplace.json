@@ -3,7 +3,7 @@
   "owner": {"name": "Mark Addleman"},
   "metadata": {
     "description": "Pyze Claude Code plugins — Clojure development skills and workflow tools",
-    "version": "3.1.0"
+    "version": "3.2.0"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
         "url": "https://github.com/pyze/claude-plugin.git"
       },
       "description": "Clojure development skills, coding standards, and workflow infrastructure for Claude Code",
-      "version": "3.1.0",
+      "version": "3.2.0",
       "strict": true
     }
   ]
